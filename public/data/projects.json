@@ -1,0 +1,64 @@
+
+[   
+   {
+        "id" : 1,
+        "title" : "Astra",
+        "category": "web",
+        "description ": "Plateforme de telechargement des documents",
+        "image ": "./projects/web1.png",
+        "technologies": ["React", "Node.js", "Mysql"],
+        "demoLink ": "#",
+        "codeLink ": "#"
+    },
+
+    {
+        "id": 2,
+        "title": "Blog personnel",
+        "category": "web",
+        "description": "Plateforme pour publier des contenus personnel",
+        "image": "./projects/web2.png",
+        "technologies": ["Next.js", "Tailwind"],
+        "demoLink": "#",
+        "codeLink": "#"
+    },
+    {
+        "id": 3,
+        "title": "Aryo Resto",
+        "category": "design",
+        "description": "Affiche professionnelle pour un restaurant",
+        "image": "./projects/design1.png",
+        "technologies": ["Photoshop", "Illustrator"],
+        "demoLink": "#" ,
+        "codeLink" : "#"
+    } ,
+     {
+        "id": 4,
+        "title": "Burger",
+        "category": "design",
+        "description": "Affiche professionnelle pour un la vente des burgers",
+        "image": "./projects/design2.png",
+        "technologies": ["Photoshop", "Illustrator"],
+        "demoLink": "#" ,
+        "codeLink" : "#"
+    } ,
+     {
+        "id": 5,
+        "title": "Anniversaire",
+        "category": "design",
+        "description": "Affiche professionnelle pour un les anniversaires",
+        "image": "./projects/design3.png",
+        "technologies": ["Photoshop", "Illustrator"],
+        "demoLink": "#" ,
+        "codeLink" : "#"
+    } ,
+     {
+        "id": 6,
+        "title": "Makup",
+        "category": "design",
+        "description": "Affiche professionnelle pour un les salons de coiffure pour femmes",
+        "image": "./projects/design4.png",
+        "technologies": ["Photoshop", "Illustrator"],
+        "demoLink": "#" ,
+        "codeLink" : "#"
+    }
+]

@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0058dd;
+  --color-secondary: #0d2a44;
+  --color-ternaire: #0a3363;
+  --color-blanche: #ffffff;
+}
+
+.shadow {
+  box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.274);
+}
+
+.flou {
+  background-color: #00000025;
+}
