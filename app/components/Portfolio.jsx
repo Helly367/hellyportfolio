@@ -65,7 +65,7 @@ const Portfolio = () => {
             "description": "Affiche professionnelle pour les anniversaires",
             "image": "/projects/design3.png",
             "technologies": ["Photoshop", "Illustrator"],
-            "demoLink": "#",
+            "demoLink": "/projects/design3.png",
             "codeLink": "#"
         },
         {
@@ -75,7 +75,7 @@ const Portfolio = () => {
             "description": "Affiche professionnelle pour les salons de coiffure pour femmes",
             "image": "/projects/design4.png",
             "technologies": ["Photoshop", "Illustrator"],
-            "demoLink": "#",
+            "demoLink": "/projects/design4.png",
             "codeLink": "#"
         }
     ];

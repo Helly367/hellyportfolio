@@ -60,10 +60,7 @@ const Footer = () => {
                     <p className='mb-2'>
                         Développeur Full-Stack & Designer • Basé à Kinshasa, Rd congo
                     </p>
-                    <div className='flex flex-wrap justify-center gap-6'>
-                        <a href="#" className='hover:text-white transition-colors'>Mentions légales</a>
-                        <a href="#" className='hover:text-white transition-colors'>Politique de confidentialité</a>
-                    </div>
+
                 </div>
             </div>
         </footer>

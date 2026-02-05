@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from 'react';
-import { Email, Phone, LocationOn, Send, GitHub, Instagram, Facebook } from '@mui/icons-material';
+import { Email, Phone, LocationOn, Send, GitHub, Instagram, Facebook, WhatsApp } from '@mui/icons-material';
 
 const Contact = () => {
     const [formData, setFormData] = useState({
@@ -35,20 +35,26 @@ const Contact = () => {
         {
             icon: <Facebook />,
             name: 'Facebook',
-            url: 'https://linkedin.com/in/hellyvibes',
+            url: 'https://www.facebook.com/profile.php?id=61577945304642',
             color: 'bg-blue-600 hover:bg-blue-700'
         },
         {
             icon: <GitHub />,
             name: 'GitHub',
-            url: 'https://github.com/hellyvibes',
+            url: 'https://github.com/Helly367',
             color: 'bg-gray-800 hover:bg-gray-900'
         },
         {
             icon: <Instagram />,
             name: 'Instagram',
-            url: 'https://instagram.com/hellyvibes',
+            url: 'https://www.instagram.com/djuma_36?igsh=ZGUzMzM3NWJiOQ==',
             color: 'bg-pink-600 hover:bg-pink-700'
+        },
+        {
+            icon: <WhatsApp />,
+            name: 'WhatsApp',
+            url: 'https://wa.me/qr/H54BXKWCSEK6M1',
+            color: 'bg-green-600 hover:bg-pink-700'
         }
     ];
 
