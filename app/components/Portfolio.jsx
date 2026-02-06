@@ -55,7 +55,7 @@ const Portfolio = () => {
             "description": "Affiche professionnelle pour la vente des burgers",
             "image": "/projects/design2.png",
             "technologies": ["Photoshop", "Illustrator"],
-            "demoLink": "#",
+            "demoLink": "/projects/design2.png",
             "codeLink": "#"
         },
         {

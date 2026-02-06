@@ -7,12 +7,13 @@ import Experiences from './components/Experiences';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import Header from './components/Header';
+import HeaderItems from './components/Header';
+
 
 const App = () => {
   return (
     <div className="font-sans"> 
-      <Header />
+      <HeaderItems />
       <main>
         <Profile />
         <QuiSuisJe />

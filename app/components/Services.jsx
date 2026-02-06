@@ -38,7 +38,7 @@ const services = [
         categorie: "Montage Photo & Vidéo",
         description: "Retouches photo et montages vidéo professionnels pour vos projets.",
         icon: <Movie />,
-        image: './images/video.jpg', // À ajouter
+        image: './images/Photoshop.jpg', 
         color: "from-green-500 to-emerald-500",
         iconColor: "text-green-600",
         iconBg: "bg-green-100"

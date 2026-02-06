@@ -1,4 +1,6 @@
+import { DeviceProvider } from "./context/deviceSizeContext";
 import "./globals.css";
+
 
 export const metadata = {
   title: "Helly vibe's",
@@ -9,7 +11,10 @@ export default function RootLayout({ children }) {
   return (
     <html lang="fr">
       <body>
-        {children}
+        <DeviceProvider>
+          {children}
+        </DeviceProvider>
+
       </body>
     </html>
   );
