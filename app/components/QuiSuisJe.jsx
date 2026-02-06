@@ -103,14 +103,13 @@ const QuiSuisJe = () => {
 
                         {/* CTA Section */}
                         <div className='flex flex-wrap gap-4'>
-                            <button className='flex items-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-blue-700 transition-colors'>
+                            <a
+                                href="./data/cv.pdf"
+                                className='flex items-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-blue-700 transition-colors'>
                                 <Download />
                                 Télécharger mon CV
-                            </button>
-                            <button className='flex items-center gap-2 border-2 border-blue-600 text-blue-600 px-6 py-3 rounded-lg font-bold hover:bg-blue-50 transition-colors'>
-                                <Folder />
-                                Voir mes projets
-                            </button>
+                            </a>
+
                         </div>
                     </div>
                 </div>
