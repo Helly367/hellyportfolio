@@ -45,7 +45,7 @@ const Portfolio = () => {
             "description": "Affiche professionnelle pour un restaurant",
             "image": "/projects/design1.webp",
             "technologies": ["Photoshop", "Illustrator"],
-            "demoLink": "#",
+            "demoLink": "/projects/design1.webp",
             "codeLink": "#"
         },
         {
