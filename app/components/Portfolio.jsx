@@ -55,7 +55,7 @@ const Portfolio = () => {
             "description": "Affiche professionnelle pour la vente des burgers",
             "image": "/projects/design2.webp",
             "technologies": ["Photoshop", "Illustrator"],
-            "demoLink": "/projects/design2.png",
+            "demoLink": "/projects/design2.webp",
             "codeLink": "#"
         },
         {
@@ -63,7 +63,7 @@ const Portfolio = () => {
             "title": "Anniversaire",
             "category": "design",
             "description": "Affiche professionnelle pour les anniversaires",
-            "image": "/projects/design3.png",
+            "image": "/projects/design3.webp",
             "technologies": ["Photoshop", "Illustrator"],
             "demoLink": "/projects/design3.webp",
             "codeLink": "#"
@@ -73,7 +73,7 @@ const Portfolio = () => {
             "title": "Makup",
             "category": "design",
             "description": "Affiche professionnelle pour les salons de coiffure pour femmes",
-            "image": "/projects/design4.png",
+            "image": "/projects/design4.webp",
             "technologies": ["Photoshop", "Illustrator"],
             "demoLink": "/projects/design4.webp",
             "codeLink": "#"
