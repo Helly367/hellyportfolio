@@ -7,7 +7,7 @@ const Profile = () => {
             {/* Image - Priorité sur mobile */}
             <div className='order-2 md:order-1 flex justify-center'>
                 <img
-                    src="./images/helly.png"
+                    src="./images/helly.webp"
                     alt="Djuma Helly Vibe's - Développeur Full-Stack"
                     className='w-64 h-80 md:w-80 md:h-96 '
                 />

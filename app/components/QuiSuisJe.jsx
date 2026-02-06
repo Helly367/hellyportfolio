@@ -36,7 +36,7 @@ const QuiSuisJe = () => {
                         <div className='relative w-64 h-64 md:w-80 md:h-80'>
                             <div className='absolute inset-0 bg-linear-to-r from-blue-500 to-orange-500 rounded-3xl rotate-6'></div>
                             <img
-                                src="./images/helly2.png"
+                                src="./images/helly2.webp"
                                 alt="Djuma Helly Vibe's - Développeur Full-Stack"
                                 className='relative w-full h-full object-cover rounded-3xl border-4 border-white shadow-2xl'
                             />

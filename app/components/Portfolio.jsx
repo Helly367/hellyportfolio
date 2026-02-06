@@ -23,7 +23,7 @@ const Portfolio = () => {
             "title": "Astra",
             "category": "web",
             "description": "Plateforme de téléchargement des documents",
-            "image": "/projects/web1.png",
+            "image": "/projects/web1.webp",
             "technologies": ["React", "Node.js", "Mysql"],
             "demoLink": "#",
             "codeLink": "#"
@@ -33,7 +33,7 @@ const Portfolio = () => {
             "title": "Blog personnel",
             "category": "web",
             "description": "Plateforme pour publier des contenus personnel",
-            "image": "/projects/web2.png",
+            "image": "/projects/web2.webp",
             "technologies": ["Next.js", "Tailwind"],
             "demoLink": "#",
             "codeLink": "#"
@@ -43,7 +43,7 @@ const Portfolio = () => {
             "title": "Aryo Resto",
             "category": "design",
             "description": "Affiche professionnelle pour un restaurant",
-            "image": "/projects/design1.png",
+            "image": "/projects/design1.webp",
             "technologies": ["Photoshop", "Illustrator"],
             "demoLink": "#",
             "codeLink": "#"
@@ -53,7 +53,7 @@ const Portfolio = () => {
             "title": "Burger",
             "category": "design",
             "description": "Affiche professionnelle pour la vente des burgers",
-            "image": "/projects/design2.png",
+            "image": "/projects/design2.webp",
             "technologies": ["Photoshop", "Illustrator"],
             "demoLink": "/projects/design2.png",
             "codeLink": "#"
@@ -65,7 +65,7 @@ const Portfolio = () => {
             "description": "Affiche professionnelle pour les anniversaires",
             "image": "/projects/design3.png",
             "technologies": ["Photoshop", "Illustrator"],
-            "demoLink": "/projects/design3.png",
+            "demoLink": "/projects/design3.webp",
             "codeLink": "#"
         },
         {
@@ -75,7 +75,7 @@ const Portfolio = () => {
             "description": "Affiche professionnelle pour les salons de coiffure pour femmes",
             "image": "/projects/design4.png",
             "technologies": ["Photoshop", "Illustrator"],
-            "demoLink": "/projects/design4.png",
+            "demoLink": "/projects/design4.webp",
             "codeLink": "#"
         }
     ];

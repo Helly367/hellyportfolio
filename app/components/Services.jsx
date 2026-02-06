@@ -11,7 +11,7 @@ const services = [
         categorie: "Développement Web",
         description: "Création de sites et applications web statiques et dynamiques, optimisés et performants.",
         icon: <Code />,
-        image: './images/web.jpg',
+        image: './images/web.webp',
         color: "from-blue-500 to-cyan-500",
         iconColor: "text-blue-600",
         iconBg: "bg-blue-100"
@@ -20,7 +20,7 @@ const services = [
         categorie: "Développement Mobile & Desktop",
         description: "Applications mobiles et logiciels bureau adaptés à vos besoins spécifiques.",
         icon: <PhoneAndroid />,
-        image: './images/mobile.jpg',
+        image: './images/mobile.webp',
         color: "from-purple-500 to-pink-500",
         iconColor: "text-purple-600",
         iconBg: "bg-purple-100"
@@ -29,7 +29,7 @@ const services = [
         categorie: "Design & Graphisme",
         description: "Logos, flyers, illustrations et identités visuelles personnalisées.",
         icon: <Palette />,
-        image: './images/design.png',
+        image: './images/design.webp',
         color: "from-orange-500 to-yellow-500",
         iconColor: "text-orange-600",
         iconBg: "bg-orange-100"
@@ -38,7 +38,7 @@ const services = [
         categorie: "Montage Photo & Vidéo",
         description: "Retouches photo et montages vidéo professionnels pour vos projets.",
         icon: <Movie />,
-        image: './images/Photoshop.jpg', 
+        image: './images/Photoshop.webp', 
         color: "from-green-500 to-emerald-500",
         iconColor: "text-green-600",
         iconBg: "bg-green-100"
